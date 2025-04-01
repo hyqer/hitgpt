@@ -1,0 +1,32 @@
+.article {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    margin-top: 0;
+  }
+  
+  .content {
+    margin: 2rem 0;
+    line-height: 1.8;
+  }
+  
+  .related {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #eee;
+  }
+  
+  .related ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .related li {
+    margin: 0.5rem 0;
+  }
